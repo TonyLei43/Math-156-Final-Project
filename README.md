@@ -1,4 +1,4 @@
-# Math-156-Final-Project
+# Royce_Hall
 
 ## Project Summary
 We use CNNs for an image binary classification task. We want to be able to classify whether or not an image of a building is Royce Hall or not. Using our model, we achieved a final train accuracy of $0.9718$ and a validation accuracy of $0.9375$. 
@@ -20,7 +20,7 @@ We use CNNs for an image binary classification task. We want to be able to class
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TonyLei43/Math-156-Final-Project
+   git clone https://github.com/TonyLei43/Royce_Hall
    ```
 2. Navigate to the project directory:
    ```bash
@@ -36,5 +36,7 @@ We use CNNs for an image binary classification task. We want to be able to class
 
 ## Demo
 For a live demonstration of the project, [click here](https://roycehall.streamlit.app/).
+
+This was a final project for Math 156 MAchine Learning at UCLA.
 
 
