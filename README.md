@@ -10,6 +10,9 @@ We use CNNs for an image binary classification task. We want to be able to class
 - Predict!
 - Evaluate results
 
+## Dataset
+We used pictures taken of Royce Hall and the dataset from [the University of Salford](https://salford.figshare.com/articles/dataset/UoS_Buildings_Image_Dataset_for_Computer_Vision_Algorithms/20383155), which we used for our negative class. See the `dataset/` folder in the repository. 
+
 ## How to Run
 
 ### Prerequisites
