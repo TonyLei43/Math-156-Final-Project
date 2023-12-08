@@ -24,7 +24,7 @@ We use CNNs for an image binary classification task. We want to be able to class
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Math-156-Final-Project
+   cd Royce_Hall
    ```
 
 ### Running the Model
